@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**alessandrodipiano/alessandrodipiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Aless 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Bachelor's student in Artificial Intelligence with interests in:
+- Machine Learning
+- Clinical / medical data analysis
+- Missing data and imputation
+- Deep learning
+
+### Selected Projects
+- Migraine longitudinal clinical data analysis
+- Toxic comment classification (NLP)
+- Particle Swarm Optimization
+
+This GitHub contains coursework and personal projects documenting my learning path.
+
