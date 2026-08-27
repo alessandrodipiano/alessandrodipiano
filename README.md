@@ -4,7 +4,7 @@ I'm a **B.Sc. student in Artificial Intelligence** interested in the intersectio
 
 My work focuses on applying mathematical and computational methods to real-world scientific and engineering problems, with particular interest in **perception, predictive modelling, statistical learning, and intelligent systems operating under uncertainty**.
 
-## 🔬 Research Experience
+## Research Experience
 
 ### Human-Aware Robotics
 
